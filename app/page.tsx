@@ -178,7 +178,7 @@ export default function Home() {
               </h1>
               <p className="text-xl text-gray-600 max-w-2xl mx-auto">
                 Tell us your travel preferences and we&apos;ll create a
-                personalized walking route with amazing places to visit!
+                personalised walking route with amazing places to visit!
               </p>
             </div>
 
